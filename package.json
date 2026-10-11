@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2","peer":"^1.0.2"},"description":"Self-hosted PeerJS signaling broker for The Noor Corner (free tier).","engines":{"node":"20"},"main":"server.js","name":"noor-corner-signaling","scripts":{"start":"node server.js"},"version":"1.0.0"}
